@@ -1,6 +1,6 @@
 # STATS220
 
-*Table of contents are listed below.
+*Table of contents are listed below.*
 
 ## Project 1
   1. **Setting up a GitHub account and repo**
