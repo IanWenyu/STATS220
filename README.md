@@ -10,8 +10,8 @@
   5. **Setting up Github Pages**
   6. **Writing the project report**
   
-  - [Memes and GIFs](index.html)
-  - [Report]()
+  - [Repo](https://github.com/IanWenyu/STATS220)
+  - [Site](https://ianwenyu.github.io/STATS220/)
 
 ## Project 2
 
