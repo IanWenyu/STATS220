@@ -10,7 +10,7 @@
   5. **Setting up Github Pages**
   6. **Writing the project report**
   
-  - [Memes and GIFs]()
+  - [Memes and GIFs](index.html)
   - [Report]()
 
 ## Project 2
